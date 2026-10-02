@@ -1,6 +1,8 @@
 # fitint
 Fit generalized linear model and test two-way interactions Use fitint With STATA 19
 
+https://www.youtube.com/watch?v=AORpfFDrCkk
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
